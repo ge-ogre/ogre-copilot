@@ -16,6 +16,10 @@
       {
         "command": "ogre-copilot.start",
         "title": "Open AI Chat Window"
+      },
+      {
+        "command": "ogre-copilot.manageModels",
+        "title": "Manage AI Models"
       }
     ]
   },
